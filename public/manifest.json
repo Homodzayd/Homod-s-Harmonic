@@ -1,0 +1,25 @@
+{
+  "name": "HOMOD HARMONIC",
+  "short_name": "HOMOD HARMONIC",
+  "description": "نظام التحليل التوافق وإدارة المخاطر الذكي وحساب حجم المركز ومستويات التداول التوافقية",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05140b",
+  "theme_color": "#0a2115",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

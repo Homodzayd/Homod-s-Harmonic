@@ -1,0 +1,6 @@
+{
+  "name": "HOMOD HARMONIC",
+  "description": "نظام التحليل التوافق وإدارة المخاطر الذكي وحساب حجم المركز ومستويات التداول التوافقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
